@@ -1,7 +1,7 @@
 ### Hi there, I'm Ian 👋
 
 🌱 I’m currently learning:
-- [ ] **Ruby on Rails** MVC framework written in Ruby 
+- **Ruby on Rails** MVC framework written in Ruby 
 
 <!--
 
