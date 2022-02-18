@@ -25,3 +25,7 @@
 ![React](https://img.shields.io/badge/react%20-%23282c34.svg?&style=for-the-badge&logo=react&logoColor=%2361dafb)
 ![Django](https://img.shields.io/badge/django%20-%230c4b33.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%231e415e.svg?&style=for-the-badge&logo=python&logoColor=white)
+
+<div>
+    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="400" height="200"/>
+</div>
