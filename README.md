@@ -31,7 +31,7 @@
 ![Three.js](https://img.shields.io/badge/three.js%20-%23222222.svg?&style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django%20-%230c4b33.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%231e415e.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Celery](https://img.shields.io/badge/celery%20-%23b6de64.svg?&style=for-the-badge&logo=celery&logoColor=23b6de64)
+![Celery](https://img.shields.io/badge/celery%20-%23b6de64.svg?&style=for-the-badge&logo=celery&logoColor=%23b6de64)
 
 <div>
     <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="400" height="200"/>
