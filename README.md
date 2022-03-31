@@ -1,5 +1,7 @@
 ### Hi there, I'm Ian 👋
 
+👨‍💻 I'm open for job opportunities
+
 🌱 I’m currently learning:
 - **Ruby on Rails**
 - **Three.js**
@@ -21,6 +23,7 @@
 #### My tech stack
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326de6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/kubernetes%red.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci%20-%23049b4a.svg?&style=for-the-badge&logo=circleci&logoColor=white)
@@ -31,7 +34,7 @@
 ![Three.js](https://img.shields.io/badge/three.js%20-%23222222.svg?&style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django%20-%230c4b33.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%231e415e.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Celery](https://img.shields.io/badge/celery%20-%23b6de64.svg?&style=for-the-badge&logo=celery&logoColor=%23b6de64)
+![Celery](https://img.shields.io/badge/celery%20-%23b6de64.svg?&style=for-the-badge&logo=celery&logoColor=white)
 
 <div>
     <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="400" height="200"/>
