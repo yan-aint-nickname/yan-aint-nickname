@@ -23,7 +23,7 @@
 #### My tech stack
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326de6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/redis%20-%23161f31.svg?&style=for-the-badge&logo=redis&logoColor=%23dc382c)
+![Redis](https://img.shields.io/badge/redis%20-%23a32422.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci%20-%23049b4a.svg?&style=for-the-badge&logo=circleci&logoColor=white)
