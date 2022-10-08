@@ -1,19 +1,18 @@
 ### Hi there, I'm Ian 👋
 
-👨‍💻 I'm open for job opportunities
+
 
 🌱 I’m currently learning:
-- **Ruby on Rails**
-- **Three.js**
-
-🤔 I’m looking for help with:
-- **Three.js**
+- **Rust**
 
 📫 How to reach me:
 - email: alert.hereisian@gmail.com
 
 <!--
+🤔 I’m looking for help with:
+- **Three.js**
 
+- 👨‍💻 I'm open for job opportunities
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
