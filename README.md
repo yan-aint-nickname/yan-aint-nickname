@@ -3,7 +3,8 @@
 
 
 🌱 I’m currently learning:
-- **Rust**
+<!-- - **Rust** -->
+- **Go**
 
 📫 How to reach me:
 - email: alert.hereisian@gmail.com
