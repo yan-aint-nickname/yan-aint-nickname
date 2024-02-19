@@ -1,10 +1,9 @@
 ### Hi there, I'm Yan 👋
 
-🌱 I’m currently learning:
+<!-- 🌱 I’m currently learning: -->
 <!-- - **Rust** -->
 <!-- - **OCaml** -->
 <!-- - **Elixir** -->
-![Go](https://img.shields.io/badge/golang%20-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
 
 📫 How to reach me:
 - email: alert.hereisian@gmail.com
@@ -45,6 +44,7 @@
 ![Postgres](https://img.shields.io/badge/postgres%20-%234169E1?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Poetry](https://img.shields.io/badge/poetry%20-%2360A5FA?&style=for-the-badge&logo=poetry&logoColor=white)
 ![Apollo Graphql](https://img.shields.io/badge/apollo_graphql%20-%23311C87?style=for-the-badge&logo=apollographql)
+![Go](https://img.shields.io/badge/golang%20-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-aint-nickname&hide=html,css,ruby&langs_count=8)
 
