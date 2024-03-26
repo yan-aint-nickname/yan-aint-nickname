@@ -30,6 +30,7 @@
 ![React](https://img.shields.io/badge/react%20-%23282c34?&style=for-the-badge&logo=react&logoColor=%2361dafb)
 ![C](https://img.shields.io/badge/clang%20-%23A8B9CC?&style=for-the-badge&logo=c&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery%20-%2337814A?&style=for-the-badge&logo=celery&logoColor=white)
+![Django](https://img.shields.io/badge/django%20-%230c4b33?&style=for-the-badge&logo=django&logoColor=white)
 
 #### My current tech stack
 ![Docker](https://img.shields.io/badge/docker%20-%232496ED?&style=for-the-badge&logo=docker&logoColor=white)
@@ -38,7 +39,6 @@
 ![GitHub](https://img.shields.io/badge/github%20-%23121011?&style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab%20-%23181717?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi%20-%23009688?&style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/django%20-%230c4b33?&style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%231e415e?&style=for-the-badge&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql%20-%23E10098?&style=for-the-badge&logo=graphql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres%20-%234169E1?&style=for-the-badge&logo=postgresql&logoColor=white)
