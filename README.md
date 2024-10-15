@@ -46,7 +46,7 @@
 ![Apollo Graphql](https://img.shields.io/badge/apollo_graphql%20-%23311C87?style=for-the-badge&logo=apollographql)
 ![Go](https://img.shields.io/badge/golang%20-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-aint-nickname&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-aint-nickname&langs_count=8&hide=html,nix,css)
 
 <div>
     <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="400" height="200"/>
