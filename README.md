@@ -45,10 +45,10 @@
 ![Python](https://img.shields.io/badge/python%20-%231e415e?&style=for-the-badge&logo=python&logoColor=white)
 ![Rabbitmq](https://img.shields.io/badge/rabbitmq%20-%23ed702d?&style=for-the-badge&logo=rabbitmq&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres%20-%234169E1?&style=for-the-badge&logo=postgresql&logoColor=white)
-![Poetry](https://img.shields.io/badge/poetry%20-%2360A5FA?&style=for-the-badge&logo=poetry&logoColor=white)
 ![Go](https://img.shields.io/badge/golang%20-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/lua%20-%23000069?&style=for-the-badge&logo=lua&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-aint-nickname&langs_count=8&hide=html,nix,css,typst)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-aint-nickname&langs_count=8&hide=html,nix,css,typst) -->
 
 <div>
     <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="400" height="200"/>
